@@ -2,7 +2,7 @@ applications:
 - path: build/libs/bluemixlinebot.war
   memory: 512M
   instances: 1
-  domain: BotNiru.mybluemix.net
+  domain: mybluemix.net
   name: BotNiru
   host: BotNiru
   disk_quota: 1024M
